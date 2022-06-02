@@ -5,7 +5,7 @@ I am a chemical engineer with process automation (process control/control system
 - I’m currently pursuing **Masters in Computer Science at Georgia Institute of Technology (Georgia Tech)**
 - I'm interested in all things about data: **Big Data, Cloud Computing, Data Science, Machine Learning/Deep Learning, AI Engineering, etc.**
 
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://unsplash.com/photos/G1N9kDHqBrQ)" width="230">
+<img align='right' src="[https://unsplash.com/photos/G1N9kDHqBrQ](https://unsplash.com/photos/G1N9kDHqBrQ)" width="230">
 
 
 [![Linkedin: insu-kim](https://img.shields.io/badge/-insukim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/insu-kim/)](https://www.linkedin.com/in/insu-kim/)
