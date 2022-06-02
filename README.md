@@ -1,5 +1,4 @@
 <h2> Hi there, I'm Insu.</h2>
-<img align='right' src="https://unsplash.com/photos/G1N9kDHqBrQ" width="230">
 
 I am a chemical engineer with process automation (process control/control systems) background, who is passionate about innvocation. I am currently developing my skill sets on Data Engineering/Science, Machine Learning/Deep Learning algorithms. 
 
