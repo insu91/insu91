@@ -9,5 +9,5 @@ I am a chemical engineer with process automation (process control/control system
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: insu-kim](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/insu-kim/)](https://www.linkedin.com/in/insu-kim/)
-[![GitHub insu91](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/insu91)
+[![Linkedin: insu-kim](https://img.shields.io/badge/-insu-kim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/insu-kim/)](https://www.linkedin.com/in/insu-kim/)
+[![GitHub insu91](https://img.shields.io/github/followers/insu91?label=follow&style=social)](https://github.com/insu91)
